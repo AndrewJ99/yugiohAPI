@@ -1,5 +1,5 @@
 # yugiohAPI
-A yugiohAPI project that uses API routes with JavaScript and importing data to MongoDB 
+A yugiohAPI project that uses API routes with JavaScript and importing data to MongoDB, used with CLI for user interface. 
 
 Created By: Andrew Jarmin
 
