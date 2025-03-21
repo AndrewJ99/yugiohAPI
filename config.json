@@ -1,6 +1,6 @@
 {
     "cluster": "cluster0.d26ck.mongodb.net",
     "db_name": "users",
-    "username": "dbAdmin",
-    "password": "LNWWtZSVXMFDjUen"
+    "username": "",
+    "password": ""
 }
